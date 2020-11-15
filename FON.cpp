@@ -1,4 +1,4 @@
-void background()
+void fon()
 {
    setcolor(GREEN);
    setfillstyle(1, GREEN);
