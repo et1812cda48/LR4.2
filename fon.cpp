@@ -1,4 +1,5 @@
-void fon() {
+void fon()
+{
    setcolor(GREEN);
    setfillstyle(1, GREEN);
    line(0, 400, 800, 400);
